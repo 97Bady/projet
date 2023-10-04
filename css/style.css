@@ -1,0 +1,24 @@
+.conteneur {
+    /* Styles pour le conteneur */
+    width: 300px;
+    height: 150px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .mon-bouton {
+    /* Styles pour le bouton */
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .mon-bouton:hover {
+    /* Styles au survol du bouton */
+    background-color: #0056b3;
+  }
+  
